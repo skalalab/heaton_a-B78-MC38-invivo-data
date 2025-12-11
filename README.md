@@ -3,6 +3,7 @@
 <li>MC38 raw tumor images</li>
 <li>B78 data files</li>
 <li>MC38 data files</li>
+<li>Cryo-fluorescence tomography files</li>
 
 ## How to cite this data
 ```tex
