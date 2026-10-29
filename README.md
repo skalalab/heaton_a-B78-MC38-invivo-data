@@ -9,8 +9,8 @@
 ```tex
   author       = {Alexa R. Heaton, Nathaniel J. Burkard, Anqi Gao, Anna Hoefges, Arika S. Feils, Samantha K. Burkard, Mildred A. Felder, Noah W. Tsarovsky, Daniel V. Spiegelman, Garrett M. Lublin, Alina A. Hampton, Aurora D'Amato, Huy Q. Dinh, Alexander L. Rakhmilevich, Amy K. Erbe, Paul M. Sondel, Melissa C. Skala},
   title        = {Divergent role of CD8 T cells with distinct  metabolic phenotypes during curative radio-immunotherapy in hot versus cold tumors},
-  month        = october,
-  year         = 2025,
+  month        = january,
+  year         = 2026,
   publisher    = {bioRxiv},
   version      = {v1.0},
   doi          = {10.1101/2025.10.24.684274},
